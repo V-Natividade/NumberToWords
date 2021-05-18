@@ -1,4 +1,4 @@
-# NumberToWords
+# Number to Words
 NumberToWords tem a finalidade de converter números inteiros e cardinais em números extensos, ou seja, pegar o número "110" e converter para "cento e dez".
 
 Escrito encima da linguagem python, foi dockerizado com o servidor HTTP gunicorn, se baseando nas regras do wsgi.
